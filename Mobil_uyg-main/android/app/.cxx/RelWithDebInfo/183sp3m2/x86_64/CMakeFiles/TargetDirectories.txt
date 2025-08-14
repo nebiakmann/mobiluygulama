@@ -1,0 +1,2 @@
+C:/Users/Alim/Desktop/CursorProjects/spor_salonu/android/app/.cxx/RelWithDebInfo/183sp3m2/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Alim/Desktop/CursorProjects/spor_salonu/android/app/.cxx/RelWithDebInfo/183sp3m2/x86_64/CMakeFiles/rebuild_cache.dir

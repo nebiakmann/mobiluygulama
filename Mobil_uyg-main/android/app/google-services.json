@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "825861658125",
+    "project_id": "spor-salonu-c1621",
+    "storage_bucket": "spor-salonu-c1621.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825861658125:android:eae0c3088048e70f186744",
+        "android_client_info": {
+          "package_name": "com.example.spor_salonu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825861658125-jejbu4oo1nig45fkb7p0841rvkr7qh33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDi6TtUECC1v3YoxmFoHjvnhlNU9oTK48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825861658125-jejbu4oo1nig45fkb7p0841rvkr7qh33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825861658125-o6dgdhs8aunajg81kiif3uadjb8s2tmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sporSalonu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
